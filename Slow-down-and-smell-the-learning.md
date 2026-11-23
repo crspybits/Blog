@@ -1,10 +1,10 @@
 ---
 ---
 
-# Slow down and smell the learning
-## Keeping more of the knowledge in our own heads
+# Slow down and smell the learning: Keeping more of the knowledge in our own heads
 
 Christopher G. Prince
+<br>
 11/23/26
 
 # TL;DR
@@ -14,8 +14,11 @@ We have learning choices to make when using tools in software development. This 
 I’ve been using generative AI in the form of Claude and Claude Code for over a year now. I’m a software developer and initially this generative AI usage was at my former workplace (I’ll mostly just say “AI” for generative AI in the following). More recently it’s been on personal software development projects and in my search for a new job. What’s been on my mind most of all is learning, human learning. What impact does this technology have on my learning? And on the learning of others? Part of where I’m coming from is my history: I used to be an educator, teaching computer science. Part of this is also coming from something I enjoy in a workplace– mentoring others. How should I help others using this technology? How can I advise them in regards to learning?
 
 This piece is mostly an essay, to write down my thoughts. But, my point of view is not new:
+<br>
 “With how quick it is to get a feature out with AI I just see myself learning less and less…” ([Reddit](#references), 10/30/26).
+<br>
 “How are you keeping your engineering instincts sharp?” ([LinkedIn](#references), 4/29/26)
+<br>
 “Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.” ([Nature](#references), 6/18/26)
 
 Before I get started in earnest let’s acknowledge it’s a seriously amazing time we live in. Not only do we have rockets that return from space and land on their tails, but we also have computer systems that engage in an intelligent manner with us, in natural language. Wow. I didn’t think I’d live to see either.
@@ -36,11 +39,17 @@ In the rest of this article, I’m going to cover several cases of where you can
 Bugs are the bread and butter of software engineering. You are often called on to fix bugs. And there are real decisions to be made in terms of learning. Do you take the time you need to learn, in addition to solving the problem? Or do you just go full throttle and fix the bug, perhaps due to time pressure?
 
 Two separate factors can influence your decision about learning:
+<br>
 1) perception of time pressure, and
+<br>
 2) the availability of AI tooling. 
+<br>
 While there can be real time pressures and deadlines I often find myself succumbing just to a self-imposed pressure of productivity. And wanting to deal with the bug as quickly as possible. This though may not leave you in the best position to solve later bugs. If instead you learn all you can in solving a bug, when someone comes to you later with a similar bug you: 
-a) may better remember that first bug, and 
+<br>
+a) may better remember that first bug, and
+<br>
 b) be better able to solve that new bug.
+<br>
 Companies often provide specific learning opportunities, such as courses or going to conferences. Why not treat a bug with similar learning respect? Treat a bug as an opportunity to learn about the software you are working with. As well as, of course, something that needs fixing.
 
 Factor 2) above is a main topic here: The availability of AI tools. You have Claude Code at hand. You have a bug. Why not hit the nail with the hammer? Just give Claude the bug ticket, go get coffee, and presto you are done! Well, the same kind of reasoning as above can apply. If you are under real time pressure and the bug is relatively simple, using the AI tool may be the way to go. And I say “using” – and really mean just asking the AI system to do the full job. There are various prompting alternatives in the use of this tooling, if you want to learn along the way. Some examples:
@@ -107,12 +116,12 @@ Thanks to Adam Wolf for his comments on this article.
 
 # References
 
-[Reddit] https://www.reddit.com/r/SoftwareEngineerJobs/comments/1xjj6nx/lost_as_a_junior/
+[Reddit] [https://www.reddit.com/r/SoftwareEngineerJobs/comments/1xjj6nx/lost_as_a_junior/](https://www.reddit.com/r/SoftwareEngineerJobs/comments/1xjj6nx/lost_as_a_junior/)
 
-[LinkedIn] https://www.linkedin.com/posts/ryandexterbrandt_the-thing-that-scares-me-about-ai-native-share-7455310694897545216-xWTm
+[LinkedIn] [https://www.linkedin.com/posts/ryandexterbrandt_the-thing-that-scares-me-about-ai-native-share-7455310694897545216-xWTm](https://www.linkedin.com/posts/ryandexterbrandt_the-thing-that-scares-me-about-ai-native-share-7455310694897545216-xWTm)
 
-[Nature] https://www.nature.com/articles/d41586-026-01947-1 
+[Nature] [https://www.nature.com/articles/d41586-026-01947-1](https://www.nature.com/articles/d41586-026-01947-1)
 
-Hermans, F. (2021). The Programmer's Brain: What Every Programmer Needs to Know About Cognition. Manning Publications. https://www.manning.com/books/the-programmers-brain 
+Hermans, F. (2021). The Programmer's Brain: What Every Programmer Needs to Know About Cognition. Manning Publications. [https://www.manning.com/books/the-programmers-brain](https://www.manning.com/books/the-programmers-brain)
 
-Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285. https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1202_4 
+Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285. [https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1202_4](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1202_4)
