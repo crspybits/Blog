@@ -15,11 +15,11 @@ I’ve been using generative AI in the form of Claude and Claude Code for over a
 
 This piece is mostly an essay, to write down my thoughts. But, my point of view is not new:
 <br>
-“With how quick it is to get a feature out with AI I just see myself learning less and less…” ([Reddit](#references), 10/30/26).
+- “With how quick it is to get a feature out with AI I just see myself learning less and less…” ([Reddit](#references), 10/30/26).
 <br>
-“How are you keeping your engineering instincts sharp?” ([LinkedIn](#references), 4/29/26)
+- “How are you keeping your engineering instincts sharp?” ([LinkedIn](#references), 4/29/26)
 <br>
-“Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.” ([Nature](#references), 6/18/26)
+- “Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.” ([Nature](#references), 6/18/26)
 
 Before I get started in earnest let’s acknowledge it’s a seriously amazing time we live in. Not only do we have rockets that return from space and land on their tails, but we also have computer systems that engage in an intelligent manner with us, in natural language. Wow. I didn’t think I’d live to see either.
 
@@ -40,15 +40,15 @@ Bugs are the bread and butter of software engineering. You are often called on t
 
 Two separate factors can influence your decision about learning:
 <br>
-1) perception of time pressure, and
+&nbsp;&nbsp;&nbsp; 1) perception of time pressure, and
 <br>
-2) the availability of AI tooling. 
+&nbsp;&nbsp;&nbsp; 2) the availability of AI tooling. 
 <br>
 While there can be real time pressures and deadlines I often find myself succumbing just to a self-imposed pressure of productivity. And wanting to deal with the bug as quickly as possible. This though may not leave you in the best position to solve later bugs. If instead you learn all you can in solving a bug, when someone comes to you later with a similar bug you: 
 <br>
-a) may better remember that first bug, and
+&nbsp;&nbsp;&nbsp; a) may better remember that first bug, and
 <br>
-b) be better able to solve that new bug.
+&nbsp;&nbsp;&nbsp; b) be better able to solve that new bug.
 <br>
 Companies often provide specific learning opportunities, such as courses or going to conferences. Why not treat a bug with similar learning respect? Treat a bug as an opportunity to learn about the software you are working with. As well as, of course, something that needs fixing.
 
